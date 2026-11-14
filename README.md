@@ -1,18 +1,5 @@
 <html lang="pl">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>HearUp – polityka prywatności / Privacy policy</title>
-  <style>
-    body { margin: 0; background: #15181e; color: #e9ecf1; font: 16px/1.6 system-ui, sans-serif; }
-    main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
-    h1 { font-size: 26px; margin: 0 0 4px; }
-    h2 { font-size: 19px; margin: 28px 0 6px; color: #c8f03c; }
-    .meta { color: #9aa3b2; font-size: 14px; }
-    hr { border: 0; border-top: 1px solid #343a47; margin: 40px 0; }
-    a { color: #c8f03c; }
-  </style>
-</head>
+
 <body>
 <main>
   <h1>HearUp – polityka prywatności</h1>
